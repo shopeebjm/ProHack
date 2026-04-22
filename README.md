@@ -31,13 +31,13 @@ pkg install git
 cd $HOME
 git pull
 rm -rf PROHACK
-git clone https://github.com/SKBER-CYBER/PROHACK
-cd PROHACK
+git clone https://github.com/shopeebjm/ProHack
+cd ProHack
 python Prohack.py
 
 ___This Tools is paid and Free There are both.___</br>
 
-cd PROHACK
+cd ProHack
 python not coming
 ```
 
