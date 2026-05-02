@@ -12,24 +12,50 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF2C10&background=31FF9400&width=435&lines=PAID+AND+FREE+MIX+COMMAND+ENJOY+DEAR%F0%9F%A4%9F)](https://git.io/typing-svg)
 
 ```
-termux-setup-storage
-pkg update
-pkg upgrade
+pkg update && pkg upgrade -y
+```
+```
 pkg install python
+```
+```
 pkg install python2
+```
+```
 pip install requests
+```
+```
 pip install mechanize
+```
+```
 pkg install python2 git nodejs
+```
+```
 pip install lolcat
+```
+```
 pip install rich
+```
+```
 pip install bs4
-pkg install git 
+```
+```
+pkg install git
+```
+```
 cd $HOME
+```
+```
 git pull
-rm -rf PROHACK
+```
+```
 git clone https://github.com/shopeebjm/ProHack
+```
+```
 cd ProHack
+```
+```
 python Prohack.py
+```
 
 ___This Tools is paid and Free There are both.___</br>
 
